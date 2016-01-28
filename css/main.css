@@ -1,0 +1,15 @@
+.amarillo{
+	background-color: yellow;
+	border: 1px solid yellow;
+}
+.rojo{
+	background-color: red;
+	border: 1px solid red;
+}
+div{
+	height: 120%;
+	width: 100%;
+	font-size: 180%
+
+
+}
