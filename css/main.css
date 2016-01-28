@@ -5,6 +5,7 @@
 .rojo{
 	background-color: red;
 	border: 1px solid red;
+	display: inline-block;
 }
 div{
 	height: 50%;
@@ -16,5 +17,6 @@ div{
 p{
 	height: 40%;
 	width: 50%;
+	display: inline;
 }
 .p1{
